@@ -1,0 +1,11 @@
+D:\VS_Project\김성백2014112089실습11\HTTPComm\bin\Debug\HTTPComm.dll
+D:\VS_Project\김성백2014112089실습11\HTTPComm\bin\Debug\HTTPComm.pdb
+D:\VS_Project\김성백2014112089실습11\HTTPComm\obj\Debug\HTTPComm.csprojAssemblyReference.cache
+D:\VS_Project\김성백2014112089실습11\HTTPComm\obj\Debug\HTTPComm.csproj.CoreCompileInputs.cache
+D:\VS_Project\김성백2014112089실습11\HTTPComm\obj\Debug\HTTPComm.dll
+D:\VS_Project\김성백2014112089실습11\HTTPComm\obj\Debug\HTTPComm.pdb
+C:\Users\BAEK_2\Desktop\Project\HTTPComm\bin\Debug\HTTPComm.dll
+C:\Users\BAEK_2\Desktop\Project\HTTPComm\bin\Debug\HTTPComm.pdb
+C:\Users\BAEK_2\Desktop\Project\HTTPComm\obj\Debug\HTTPComm.csproj.CoreCompileInputs.cache
+C:\Users\BAEK_2\Desktop\Project\HTTPComm\obj\Debug\HTTPComm.dll
+C:\Users\BAEK_2\Desktop\Project\HTTPComm\obj\Debug\HTTPComm.pdb
