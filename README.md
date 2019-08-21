@@ -3,7 +3,6 @@
 ## 문제 분석 및 프로그램 설계
 
 - __[요구사항 분석]__
-
 1. 트레이 아이콘을 이용하여 nircmd의 명령어를 실행할 수 있어야 한다.
 2. 별도의 라이브러리를 이용하여 Keyboard Event Hooking을 구현할 수 있어야 한다.
 3. Keyboard Event Hooking을 통해 nircmd의 명령어를 실행할 수 있어야 한다.
